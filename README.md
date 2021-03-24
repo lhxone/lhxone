@@ -3,9 +3,8 @@
 
 Here are some info about ME 😁.
 
-- 🔭 I’m currently working on Node.js && Java && Python && OS.
+- 🔭 I’m currently working on Node.js.
 - 🌱 I’m currently learning Math.
-- 🤔 I’m looking for help with Hexo Theme.
 - 💬 Ask me [Anything](mailto:lhxone@outlook.com).
 
 
