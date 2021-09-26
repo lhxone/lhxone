@@ -1,11 +1,10 @@
 ### Hi there 👋
 
+内蒙古大学大三在读，信息与计算科学，node.js/前端
 
-Here are some info about ME 😁.
+- ☎️ 电话/微信：[Here](tel:15065263616)
 
-- 🔭 I’m currently working on Node.js.
-- 🌱 I’m currently learning Math.
-- 💬 Ask me [Anything](mailto:lhxone@outlook.com).
+- 📮 邮箱[Here](mailto:lhxone@outlook.com)
 
 
 
