@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-内蒙古大学大三在读，信息与计算科学，node.js/前端
+内蒙古大学在读，信息与计算科学
 
 - ☎️ 电话/微信：15065263616
 
@@ -12,4 +12,4 @@
 
 ![](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=lhxone&layout=compact&theme=radical)
 
-![](https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=lhxone&repo=lhxone.github.io&theme=radical)
+
