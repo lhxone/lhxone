@@ -2,9 +2,11 @@
 
 内蒙古大学在读，信息与计算科学
 
-- ☎️ 电话/微信：15065263616
+Inner Mongolia University,Information and Computational Science,third year student
 
-- 📮 邮箱[Here](mailto:lhxone@outlook.com)
+- ☎️ 电话(TEL)/微信(WeChat)：15065263616
+
+- 📮 邮箱(Mail):[Here](mailto:lhxone@outlook.com)
 
 
 
