@@ -9,7 +9,7 @@
 
 Inner Mongolia University,Information and Computational Science,third year student
 
-- ☎️ 电话(TEL)/微信(WeChat)：15065263616
+- ☎️ 电话(TEL)/微信(WeChat)：+86 189 0543 2841
 
 - 📮 邮箱(Mail):[Here](mailto:lhxone@outlook.com)
 
