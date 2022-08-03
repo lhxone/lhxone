@@ -7,11 +7,11 @@
 
 内蒙古大学在读，信息与计算科学
 
-Inner Mongolia University,Information and Computational Science,third year student
+Inner Mongolia University, Information and Computational Science,third year student
 
 - ☎️ 电话(TEL)/微信(WeChat)：+86 189 0543 2841
 
-- 📮 邮箱(Mail):[Here](mailto:lhxone@outlook.com)
+- 📮 邮箱(Mail):[lhxone@outlook.com](mailto:lhxone@outlook.com)   [miklos@mail.imu.edu.cn](mailto:miklos@mail.imu.edu.cn)
 
 
 
