@@ -11,7 +11,7 @@ Inner Mongolia University, Information and Computational Science, Fresh graduate
 
 - ☎️ 微信/短信(WeChat/SMS)：+1 413 676 9225
 
-- 📮 邮箱(Mail)： [lhxone@outlook.com](mailto:lhxone@outlook.com)  / [liuhaoxin-s@inspur.com](mailto:liuhaoxin-s@inspur.com) 
+- 📮 邮箱(Mail)： [lhxone@outlook.com](mailto:lhxone@outlook.com)  / [miklos@mail.imu.edu.cn](mailto:miklos@mail.imu.edu.cn) 
 
 
 
