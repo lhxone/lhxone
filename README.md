@@ -3,7 +3,7 @@
 
 ### Hi 👋
 
-![visitor](https://visitor-badge.glitch.me/badge?page_id=lhxone.lhxone)
+
 
 内蒙古大学在读，信息与计算科学
 
