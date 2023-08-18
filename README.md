@@ -3,11 +3,9 @@
 
 ### Hi 👋
 
+浪潮集团员工
 
-
-内蒙古大学在读，信息与计算科学
-
-Inner Mongolia University, Information and Computational Science, Fresh graduate student.
+Employees at INSPUR Co. Ltd.
 
 - ☎️ 微信/短信(WeChat/SMS)：+1 413 676 9225
 
