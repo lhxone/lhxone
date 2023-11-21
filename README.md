@@ -5,11 +5,11 @@
 
 浪潮集团员工
 
-Employees at INSPUR Co. Ltd.
+Employees at `inspur co. ltd`.
 
 - ☎️ 微信/短信(WeChat/SMS)：+1 413 676 9225
 
-- 📮 邮箱(Mail)： [me@lhxone.com](mailto:me@lhxone.com)  / [miklos@mail.imu.edu.cn](mailto:miklos@mail.imu.edu.cn) 
+- 📮 邮箱(Mail)： [me@lhxone.com](mailto:me@lhxone.com)  / [liuhaoxin@inspur.com](mailto:liuhaoxin@inspur.com) 
 
 
 
