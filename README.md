@@ -9,7 +9,7 @@ Employees at ![https://www.inspur.com/](https://img.shields.io/badge/inspur-ICT-
 
 - ☎️ 微信/短信(WeChat/SMS)：+1 413 676 9225
 
-- 📮 邮箱(Mail)： [me@lhxone.com](mailto:me@lhxone.com)  / [liuhaoxin@inspur.com](mailto:liuhaoxin@inspur.com) 
+- 📮 邮箱(Mail)： [miklosventura@gmail.com](mailto:miklosventura@gmail.com)  / [liuhaoxin@inspur.com](mailto:liuhaoxin@inspur.com) 
 
 ![https://www.inspur.com/lcjtww/uiFramework/commonResource/image/logo.png](https://www.inspur.com/lcjtww/uiFramework/commonResource/image/logo.png)
 
