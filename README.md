@@ -11,9 +11,6 @@ Employees at ![https://www.inspur.com/](https://img.shields.io/badge/inspur-ICT-
 
 - 📮 邮箱(Mail)： [miklosventura@gmail.com](mailto:miklosventura@gmail.com)  / [liuhaoxin@inspur.com](mailto:liuhaoxin@inspur.com) 
 
-![https://www.inspur.com/lcjtww/uiFramework/commonResource/image/logo.png](https://www.inspur.com/lcjtww/uiFramework/commonResource/image/logo.png)
-
-
 
 
 ![](https://github-readme-stats.vercel.app/api?username=lhxone&show_icons=true)
